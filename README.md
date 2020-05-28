@@ -1,6 +1,6 @@
 # SHALA2020
 
-During the COVID-19 lockdown, a team of volunteers comprising professors, industry professionals, and students working in data science, machine learning, and deep learning have gotten together to offer a course to students on these topics.
+During the COVID-19 lockdown, a team of volunteers comprising professors, industry professionals, and students working in data science, machine learning, deep learning and artificial intelligence have gotten together to offer a course to students on these topics.
 ## Topics
 Data Science (DS): Getting started, Basic data understanding, Improving plots, Basic statistics.
 
